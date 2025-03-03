@@ -1,0 +1,86 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q1,Q2,Q3
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Are you currently indoors or outdoors?,How would you rate your current thermal sensation?,What is your current thermal preference?
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID3""}","{""ImportId"":""QID4""}","{""ImportId"":""QID5""}"
+2025-01-27 03:30:50,2025-01-27 03:31:07,IP Address,128.61.86.178,100,16,True,2025-01-27 03:31:07,R_1NKy2sp17EcCCHv,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Neutral,No change
+2025-01-27 04:00:28,2025-01-27 04:00:43,IP Address,143.215.119.253,100,15,True,2025-01-27 04:00:44,R_1E6QwYDiFvqjCpt,,,,,33.7749,-84.3975,anonymous,EN,Indoors,Slightly Warm,Cooler
+2025-01-27 04:30:10,2025-01-27 04:30:26,IP Address,143.215.119.253,100,16,True,2025-01-27 04:30:27,R_3MbRKggneXctuc1,,,,,33.7749,-84.3975,anonymous,EN,Indoors,Slightly Warm,Cooler
+2025-01-27 05:04:19,2025-01-27 05:04:37,IP Address,143.215.119.253,100,17,True,2025-01-27 05:04:38,R_50TIT7C3IXDtayf,,,,,33.7749,-84.3975,anonymous,EN,Indoors,Slightly Warm,Cooler
+2025-01-27 05:58:56,2025-01-27 05:59:05,IP Address,143.215.119.253,100,8,True,2025-01-27 05:59:05,R_57jMS3ArID8uVBO,,,,,33.7749,-84.3975,anonymous,EN,Indoors,Warm,Cooler
+2025-01-27 07:00:17,2025-01-27 07:00:27,IP Address,143.215.119.253,100,9,True,2025-01-27 07:00:27,R_5kjsZHE641tTESZ,,,,,33.7749,-84.3975,anonymous,EN,Indoors,Warm,Cooler
+2025-01-27 07:30:30,2025-01-27 07:30:38,IP Address,143.215.119.253,100,7,True,2025-01-27 07:30:38,R_13gcpmC1AubDcBP,,,,,33.7749,-84.3975,anonymous,EN,Indoors,Slightly Warm,Cooler
+2025-01-27 08:00:12,2025-01-27 08:00:22,IP Address,143.215.119.253,100,9,True,2025-01-27 08:00:23,R_3PvVHjP4Q5wm7Ad,,,,,33.7749,-84.3975,anonymous,EN,Indoors,Slightly Warm,Cooler
+2025-01-27 08:30:28,2025-01-27 08:30:44,IP Address,143.215.119.253,100,16,True,2025-01-27 08:30:44,R_6dpR3jNO9GBd0zL,,,,,33.7749,-84.3975,anonymous,EN,Indoors,Warm,Cooler
+2025-01-27 09:00:33,2025-01-27 09:00:43,IP Address,143.215.119.253,100,10,True,2025-01-27 09:00:44,R_701a0WKkxtMhw8e,,,,,33.7749,-84.3975,anonymous,EN,Indoors,Neutral,No change
+2025-01-27 09:12:08,2025-01-27 09:12:32,IP Address,143.215.119.253,100,23,True,2025-01-27 09:12:32,R_7MoshnFEdpvPxRE,,,,,33.7749,-84.3975,anonymous,EN,Indoors,Slightly Warm,Cooler
+2025-01-27 09:33:37,2025-01-27 09:33:44,IP Address,143.215.119.253,100,6,True,2025-01-27 09:33:45,R_1HpKRinpxAAbyiD,,,,,33.7749,-84.3975,anonymous,EN,Indoors,Neutral,No change
+2025-01-27 10:30:16,2025-01-27 10:30:41,IP Address,143.215.119.253,100,25,True,2025-01-27 10:30:41,R_5z8vh7LSJX2Yios,,,,,33.7749,-84.3975,anonymous,EN,Indoors,Cool,Warmer
+2025-01-27 11:30:08,2025-01-27 11:30:17,IP Address,143.215.119.253,100,9,True,2025-01-27 11:30:18,R_1rU6lViSmQCHkgJ,,,,,33.7749,-84.3975,anonymous,EN,Indoors,Slightly Warm,No change
+2025-01-27 14:00:13,2025-01-27 14:00:26,IP Address,143.215.119.253,100,12,True,2025-01-27 14:00:27,R_3O86CU9RPIN1uq5,,,,,33.7749,-84.3975,anonymous,EN,Indoors,Slightly Cool,No change
+2025-01-27 14:30:15,2025-01-27 14:30:26,IP Address,143.215.119.253,100,11,True,2025-01-27 14:30:27,R_6H8m3NNM1RBlrve,,,,,33.7749,-84.3975,anonymous,EN,Indoors,Slightly Cool,Warmer
+2025-01-27 15:04:16,2025-01-27 15:04:28,IP Address,143.215.119.253,100,12,True,2025-01-27 15:04:28,R_7dFxbaQctiCeuIz,,,,,33.7749,-84.3975,anonymous,EN,Outdoors,Cool,Warmer
+2025-01-27 15:07:12,2025-01-27 15:07:22,IP Address,143.215.119.253,100,10,True,2025-01-27 15:07:23,R_74x6NgOrgTeHku4,,,,,33.7749,-84.3975,anonymous,EN,Outdoors,Cool,Warmer
+2025-01-27 15:30:17,2025-01-27 15:30:37,IP Address,143.215.119.253,100,20,True,2025-01-27 15:30:38,R_7ydfNEDigy9CJok,,,,,33.7749,-84.3975,anonymous,EN,Indoors,Neutral,No change
+2025-01-27 16:00:55,2025-01-27 16:01:03,IP Address,143.215.123.52,100,7,True,2025-01-27 16:01:03,R_6Wgm3p21QZPq4Kt,,,,,33.7697,-84.3754,anonymous,EN,Indoors,Warm,Cooler
+2025-01-29 05:33:56,2025-01-29 05:34:19,IP Address,172.56.67.103,100,23,True,2025-01-29 05:34:20,R_5EgPXV36aZwHbZc,,,,,33.8231,-84.3258,anonymous,EN,Indoors,Neutral,No change
+2025-01-29 06:39:53,2025-01-29 06:40:00,IP Address,143.215.123.52,100,7,True,2025-01-29 06:40:01,R_5lpPu0M5l2yykrD,,,,,33.7697,-84.3754,anonymous,EN,Indoors,Slightly Warm,Cooler
+2025-01-29 07:00:06,2025-01-29 07:00:12,IP Address,143.215.123.52,100,5,True,2025-01-29 07:00:13,R_7FQH7JQ78dfaE4Q,,,,,33.7697,-84.3754,anonymous,EN,Indoors,Neutral,No change
+2025-01-29 08:01:51,2025-01-29 08:01:57,IP Address,143.215.123.52,100,6,True,2025-01-29 08:01:58,R_5HpemTkneWRadTe,,,,,33.7697,-84.3754,anonymous,EN,Indoors,Neutral,No change
+2025-01-29 08:30:12,2025-01-29 08:30:23,IP Address,143.215.123.52,100,11,True,2025-01-29 08:30:23,R_1jGQt03BIQZJnqj,,,,,33.7697,-84.3754,anonymous,EN,Indoors,Slightly Warm,No change
+2025-01-29 10:28:34,2025-01-29 10:28:43,IP Address,143.215.123.52,100,9,True,2025-01-29 10:28:44,R_7n1YlvhNPRi4LSx,,,,,33.7697,-84.3754,anonymous,EN,Indoors,Neutral,No change
+2025-01-29 11:01:32,2025-01-29 11:02:01,IP Address,143.215.123.52,100,28,True,2025-01-29 11:02:02,R_3alYbxc9Va3dd6P,,,,,33.7697,-84.3754,anonymous,EN,Indoors,Neutral,No change
+2025-01-29 11:30:14,2025-01-29 11:30:31,IP Address,172.56.67.19,100,17,True,2025-01-29 11:30:31,R_1QhHA3HoP8mwrI8,,,,,33.8231,-84.3258,anonymous,EN,Outdoors,Slightly Warm,Cooler
+2025-01-29 11:57:13,2025-01-29 11:57:21,IP Address,143.215.123.52,100,7,True,2025-01-29 11:57:21,R_13fwjB1BlYg99eh,,,,,33.7697,-84.3754,anonymous,EN,Indoors,Slightly Warm,Cooler
+2025-01-29 13:39:12,2025-01-29 13:39:23,IP Address,143.215.123.52,100,11,True,2025-01-29 13:39:24,R_6knCNDmZqZBey0x,,,,,33.7697,-84.3754,anonymous,EN,Indoors,Neutral,No change
+2025-01-29 14:39:29,2025-01-29 14:39:37,IP Address,143.215.123.52,100,7,True,2025-01-29 14:39:37,R_60q1bHGwt9rcGVb,,,,,33.7697,-84.3754,anonymous,EN,Indoors,Neutral,No change
+2025-01-29 15:08:35,2025-01-29 15:08:39,IP Address,143.215.123.52,100,4,True,2025-01-29 15:08:40,R_7ItPhEYAPSp9q0o,,,,,33.7697,-84.3754,anonymous,EN,Indoors,Neutral,No change
+2025-01-29 15:30:12,2025-01-29 15:30:22,IP Address,172.56.69.46,100,10,True,2025-01-29 15:30:22,R_3cwILRBaqWROsK2,,,,,33.6926,-84.2509,anonymous,EN,Indoors,Slightly Cool,Warmer
+2025-01-29 15:58:22,2025-01-29 15:58:30,IP Address,143.215.123.52,100,7,True,2025-01-29 15:58:31,R_5gFr5Ea6vIZkeop,,,,,33.7697,-84.3754,anonymous,EN,Indoors,Warm,Cooler
+2025-01-30 04:48:58,2025-01-30 04:49:04,IP Address,143.215.123.52,100,5,True,2025-01-30 04:49:04,R_5LoIXX4qGSiNyUu,,,,,33.7697,-84.3754,anonymous,EN,Indoors,Neutral,No change
+2025-01-30 05:10:07,2025-01-30 05:10:16,IP Address,143.215.123.52,100,8,True,2025-01-30 05:10:17,R_3JX6nxWBVFSXktj,,,,,33.7697,-84.3754,anonymous,EN,Indoors,Slightly Warm,Cooler
+2025-01-30 05:30:34,2025-01-30 05:30:39,IP Address,143.215.123.52,100,5,True,2025-01-30 05:30:40,R_6IsXbkmGQB7q9mT,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Neutral,No change
+2025-01-30 06:00:35,2025-01-30 06:00:45,IP Address,143.215.123.52,100,9,True,2025-01-30 06:00:46,R_3EcWk8vUIIoGCJ5,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Warm,Cooler
+2025-01-30 06:30:09,2025-01-30 06:30:18,IP Address,143.215.123.52,100,8,True,2025-01-30 06:30:19,R_3wb1iUJiwlw92cz,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Slightly Warm,Cooler
+2025-01-30 07:00:12,2025-01-30 07:00:27,IP Address,143.215.123.52,100,14,True,2025-01-30 07:00:27,R_5W6SaL8I1nD6e2Z,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Slightly Warm,Cooler
+2025-01-30 07:39:15,2025-01-30 07:39:33,IP Address,143.215.123.52,100,18,True,2025-01-30 07:39:33,R_5X0CcTeYHWTjrSp,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Neutral,No change
+2025-01-30 08:09:29,2025-01-30 08:10:35,IP Address,143.215.123.52,100,65,True,2025-01-30 08:10:35,R_607v23kg3BsKQy2,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Neutral,No change
+2025-01-30 08:19:27,2025-01-30 08:19:34,IP Address,143.215.123.52,100,7,True,2025-01-30 08:19:34,R_6kUiK7MQgiK8maV,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Neutral,No change
+2025-01-30 09:00:17,2025-01-30 09:00:23,IP Address,143.215.123.52,100,6,True,2025-01-30 09:00:23,R_32plUVdNOpI0pax,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Neutral,No change
+2025-01-30 10:24:03,2025-01-30 10:24:17,IP Address,143.215.123.52,100,13,True,2025-01-30 10:24:17,R_3JxApkTHN1HHb2w,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Warm,Cooler
+2025-01-30 11:00:15,2025-01-30 11:00:24,IP Address,143.215.123.52,100,9,True,2025-01-30 11:00:24,R_7BrOqQBO9Rp8UB2,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Cool,Warmer
+2025-01-30 11:31:02,2025-01-30 11:31:13,IP Address,143.215.123.52,100,10,True,2025-01-30 11:31:14,R_7CCBNJwt1Fos1Bi,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Cool,Warmer
+2025-01-30 12:00:23,2025-01-30 12:00:37,IP Address,143.215.123.52,100,14,True,2025-01-30 12:00:37,R_1I3PGj6QuWBznHT,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Slightly Warm,No change
+2025-01-30 12:57:06,2025-01-30 12:57:13,IP Address,143.215.123.52,100,6,True,2025-01-30 12:57:13,R_7GNCxLwFCqWq4No,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Slightly Warm,No change
+2025-01-30 13:30:29,2025-01-30 13:30:39,IP Address,143.215.123.52,100,9,True,2025-01-30 13:30:39,R_6bGl7ABoieDEbXH,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Warm,Cooler
+2025-01-30 14:00:13,2025-01-30 14:00:24,IP Address,143.215.123.52,100,11,True,2025-01-30 14:00:25,R_1EBq8dEFkxKCk3O,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Warm,Cooler
+2025-01-30 14:21:41,2025-01-30 14:21:47,IP Address,143.215.123.52,100,6,True,2025-01-30 14:21:48,R_64wvoQoqEf68Fet,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Warm,Cooler
+2025-01-30 15:09:52,2025-01-30 15:09:59,IP Address,143.215.123.52,100,7,True,2025-01-30 15:10:00,R_12f3Odk7LI4ttTj,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Slightly Cool,No change
+2025-01-30 16:00:27,2025-01-30 16:00:37,IP Address,143.215.123.52,100,10,True,2025-01-30 16:00:37,R_6nVJqGyi0zrFoHn,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Slightly Cool,Warmer
+2025-02-03 04:32:31,2025-02-03 04:32:51,IP Address,143.215.126.126,100,20,True,2025-02-03 04:32:52,R_7fDsHRizim2mgd5,,,,,33.7749,-84.3975,anonymous,EN,Indoors,Neutral,No change
+2025-02-03 05:00:35,2025-02-03 05:00:46,IP Address,143.215.126.126,100,10,True,2025-02-03 05:00:46,R_7CBOKS5BG3IaUPr,,,,,33.7749,-84.3975,anonymous,EN,Indoors,Neutral,No change
+2025-02-03 05:30:53,2025-02-03 05:31:05,IP Address,143.215.126.126,100,11,True,2025-02-03 05:31:05,R_7JJgBoQp1AImIiR,,,,,33.7749,-84.3975,anonymous,EN,Indoors,Warm,Cooler
+2025-02-03 06:00:10,2025-02-03 06:00:15,IP Address,143.215.123.52,100,4,True,2025-02-03 06:00:15,R_6yeIh7GB4GhaOrI,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Slightly Cool,No change
+2025-02-03 06:30:07,2025-02-03 06:30:15,IP Address,143.215.123.52,100,7,True,2025-02-03 06:30:15,R_7GBpM45kowsHUXK,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Neutral,No change
+2025-02-03 07:00:09,2025-02-03 07:00:18,IP Address,143.215.123.52,100,9,True,2025-02-03 07:00:20,R_6wad8iATh9gLADq,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Slightly Warm,No change
+2025-02-03 07:30:12,2025-02-03 07:30:21,IP Address,143.215.123.52,100,8,True,2025-02-03 07:30:21,R_6cotUmNVnxxIttQ,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Warm,Cooler
+2025-02-03 08:01:22,2025-02-03 08:01:41,IP Address,143.215.123.52,100,18,True,2025-02-03 08:01:42,R_3EiAxVpFsFwSTmy,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Neutral,No change
+2025-02-03 08:30:44,2025-02-03 08:30:53,IP Address,143.215.123.52,100,8,True,2025-02-03 08:30:54,R_1oG2NJXEFYwrAhO,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Slightly Warm,No change
+2025-02-03 09:00:18,2025-02-03 09:00:27,IP Address,143.215.123.52,100,8,True,2025-02-03 09:00:27,R_5FUQTYWjV6yBVFD,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Slightly Cool,No change
+2025-02-03 09:45:06,2025-02-03 09:45:16,IP Address,143.215.123.52,100,9,True,2025-02-03 09:45:16,R_5yswTfWXQ7v03Jf,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Warm,Cooler
+2025-02-03 10:00:13,2025-02-03 10:00:24,IP Address,143.215.123.52,100,11,True,2025-02-03 10:00:25,R_7P4O3yTR4Pzh1MX,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Slightly Cool,No change
+2025-02-03 10:30:10,2025-02-03 10:30:21,IP Address,143.215.123.52,100,10,True,2025-02-03 10:30:22,R_7cisKIzsvDpaFp7,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Slightly Warm,No change
+2025-02-03 13:00:23,2025-02-03 13:00:46,IP Address,172.56.66.0,100,23,True,2025-02-03 13:00:47,R_3WdjXOR1m8h9F0B,,,,,33.8229,-84.3535,anonymous,EN,Outdoors,Slightly Warm,Cooler
+2025-02-03 14:04:35,2025-02-03 14:04:45,IP Address,143.215.123.52,100,9,True,2025-02-03 14:04:45,R_3Myg0nFAC8rhfWa,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Warm,Cooler
+2025-02-03 14:29:54,2025-02-03 14:30:38,IP Address,143.215.123.52,100,43,True,2025-02-03 14:30:39,R_3LT0cIqHrIwnFJS,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Warm,Cooler
+2025-02-03 15:06:59,2025-02-03 15:07:07,IP Address,143.215.123.52,100,7,True,2025-02-03 15:07:08,R_3WM46zPBh3ae2bY,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Warm,Cooler
+2025-02-03 15:27:29,2025-02-03 15:27:37,IP Address,143.215.123.52,100,7,True,2025-02-03 15:27:38,R_5mQejWshKXkHIdP,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Slightly Warm,Cooler
+2025-02-03 16:28:03,2025-02-03 16:28:18,IP Address,143.215.123.52,100,14,True,2025-02-03 16:28:18,R_1cnkRo2MICnIzSX,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Neutral,No change
+2025-02-07 04:17:03,2025-02-07 04:17:09,IP Address,143.215.123.52,100,5,True,2025-02-07 04:17:09,R_12AgbyxJ1dX2ztr,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Neutral,No change
+2025-02-07 06:22:57,2025-02-07 06:23:11,IP Address,143.215.123.52,100,13,True,2025-02-07 06:23:11,R_5ASHN4jbb2o7QA0,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Slightly Warm,Cooler
+2025-02-07 09:30:12,2025-02-07 09:30:20,IP Address,143.215.123.52,100,8,True,2025-02-07 09:30:20,R_3QtiJMtJ7hHn7fb,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Slightly Warm,Cooler
+2025-02-07 11:30:43,2025-02-07 11:31:12,IP Address,143.215.123.52,100,28,True,2025-02-07 11:31:12,R_3jqTtG48jaXxIT1,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Warm,Cooler
+2025-02-07 12:30:07,2025-02-07 12:30:18,IP Address,143.215.123.52,100,10,True,2025-02-07 12:30:18,R_5dRMAoqIXUQZbJ9,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Neutral,No change
+2025-02-07 13:00:10,2025-02-07 13:00:23,IP Address,143.215.123.52,100,13,True,2025-02-07 13:00:23,R_6Q9DsXFwhdV0KD3,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Neutral,No change
+2025-02-07 13:35:04,2025-02-07 13:35:12,IP Address,143.215.123.52,100,8,True,2025-02-07 13:35:12,R_6Cp8qr8ueIGaNLr,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Slightly Warm,No change
+2025-02-07 15:14:39,2025-02-07 15:14:47,IP Address,143.215.123.52,100,7,True,2025-02-07 15:14:48,R_1xKr6S8e5MihRkd,,,,,33.7838,-84.4455,anonymous,EN,Indoors,Neutral,Warmer
+2025-02-07 15:30:28,2025-02-07 15:30:49,IP Address,172.58.0.243,100,21,True,2025-02-07 15:30:50,R_3gMYR9BG737c2iK,,,,,33.9371,-84.0785,anonymous,EN,Indoors,Cool,Warmer
+2025-02-07 16:00:14,2025-02-07 16:00:24,IP Address,172.58.1.97,100,9,True,2025-02-07 16:00:24,R_64uglovAmcy1iEj,,,,,33.9371,-84.0785,anonymous,EN,Indoors,Slightly Cool,No change

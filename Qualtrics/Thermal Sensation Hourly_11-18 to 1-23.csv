@@ -1,0 +1,72 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q0,Q1,Q2_1,Q3
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Please tell me your research ID.,Are you currently indoors or outdoors?,How would you rate your current thermal sensation? - Current Thermal Sensation,What is your current thermal preference?
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID6""}","{""ImportId"":""QID3""}","{""ImportId"":""QID4_1""}","{""ImportId"":""QID5""}"
+11/18/2024 3:16,11/18/2024 3:17,IP Address,143.215.113.15,100,43,TRUE,11/18/2024 3:17,R_7SHTL5MFC4wdGo1,,,,,33.7838,-84.4455,qr,EN,,Indoors,0,No change
+11/18/2024 4:00,11/18/2024 4:00,IP Address,143.215.113.15,100,21,TRUE,11/18/2024 4:00,R_6QDFbZKRTnEmA0R,,,,,33.7838,-84.4455,qr,EN,,Indoors,-1,Warmer
+11/18/2024 5:00,11/18/2024 5:00,IP Address,143.215.113.15,100,21,TRUE,11/18/2024 5:00,R_5cSQBeSpLMe6pZS,,,,,33.7838,-84.4455,qr,EN,,Indoors,0,No change
+11/18/2024 6:16,11/18/2024 6:16,IP Address,143.215.113.15,100,11,TRUE,11/18/2024 6:16,R_3gSMgxKHTSdXOKC,,,,,33.7838,-84.4455,qr,EN,,Indoors,0,No change
+11/18/2024 7:00,11/18/2024 7:00,IP Address,143.215.113.15,100,18,TRUE,11/18/2024 7:00,R_11ZWCB7TpayPJwL,,,,,33.7838,-84.4455,anonymous,EN,,Indoors,-1,Warmer
+11/18/2024 7:18,11/18/2024 7:18,IP Address,73.7.124.156,100,14,TRUE,11/18/2024 7:18,R_6p4pgYbamjfmzoF,,,,,34.0034,-84.4605,qr,EN,,Indoors,-1,Warmer
+11/18/2024 8:00,11/18/2024 8:00,IP Address,143.215.113.15,100,21,TRUE,11/18/2024 8:00,R_7DO0BbLFOThGbzS,,,,,33.7838,-84.4455,anonymous,EN,,Indoors,-2,Warmer
+11/18/2024 8:17,11/18/2024 8:17,IP Address,73.7.124.156,100,13,TRUE,11/18/2024 8:17,R_7QRpyfPcB9iisa6,,,,,34.0034,-84.4605,qr,EN,,Indoors,-2,Warmer
+11/18/2024 9:00,11/18/2024 9:00,IP Address,143.215.113.15,100,25,TRUE,11/18/2024 9:00,R_6p4J2OtGrR29GDl,,,,,33.7838,-84.4455,anonymous,EN,,Indoors,1,Cooler
+11/18/2024 9:31,11/18/2024 9:31,IP Address,73.7.124.156,100,14,TRUE,11/18/2024 9:31,R_7WneJsxVLGbqnm1,,,,,34.0034,-84.4605,qr,EN,,Indoors,0,Warmer
+11/18/2024 10:06,11/18/2024 10:06,IP Address,143.215.113.15,100,16,TRUE,11/18/2024 10:06,R_7QAV4BHkeVBJPeq,,,,,33.7838,-84.4455,anonymous,EN,,Indoors,1,Cooler
+11/18/2024 9:31,11/18/2024 10:16,IP Address,73.7.124.156,100,2725,TRUE,11/18/2024 10:16,R_7il3Ep8V68moYA8,,,,,34.0034,-84.4605,qr,EN,,Indoors,0,No change
+11/18/2024 11:00,11/18/2024 11:00,IP Address,143.215.113.15,100,31,TRUE,11/18/2024 11:00,R_12M9EW2Qchan3Me,,,,,33.7838,-84.4455,anonymous,EN,,Indoors,0,No change
+11/18/2024 11:25,11/18/2024 11:25,IP Address,73.7.124.156,100,10,TRUE,11/18/2024 11:25,R_399jsbrqbNsIgX7,,,,,34.0034,-84.4605,qr,EN,,Indoors,1,Warmer
+11/18/2024 12:14,11/18/2024 12:14,IP Address,174.209.195.98,100,27,TRUE,11/18/2024 12:14,R_3O528pA0KbX5dUB,,,,,33.9193,-84.1427,anonymous,EN,,Outdoors,2,Cooler
+11/18/2024 13:00,11/18/2024 13:00,IP Address,128.61.177.117,100,21,TRUE,11/18/2024 13:00,R_6d6pLBfXkRoN6l8,,,,,33.8019,-84.3861,anonymous,EN,,Indoors,1,Cooler
+11/18/2024 13:03,11/18/2024 13:03,IP Address,73.7.124.156,100,10,TRUE,11/18/2024 13:03,R_7gzOy3IXvZhc3lv,,,,,34.0034,-84.4605,qr,EN,,Indoors,2,No change
+11/18/2024 14:00,11/18/2024 14:00,IP Address,174.209.195.98,100,16,TRUE,11/18/2024 14:00,R_3BtnxCn1sBReZVf,,,,,33.9193,-84.1427,anonymous,EN,,Indoors,0,No change
+11/18/2024 14:06,11/18/2024 14:07,IP Address,73.7.124.156,100,11,TRUE,11/18/2024 14:07,R_1diBOiah9IZ2MUh,,,,,34.0034,-84.4605,qr,EN,,Indoors,0,No change
+11/18/2024 15:00,11/18/2024 15:00,IP Address,128.61.177.117,100,19,TRUE,11/18/2024 15:00,R_5MzAjZNe1JXSpmV,,,,,33.8019,-84.3861,anonymous,EN,,Indoors,1,Cooler
+11/18/2024 15:05,11/18/2024 15:06,IP Address,73.7.124.156,100,13,TRUE,11/18/2024 15:06,R_1v1O2YisvC4Tlnz,,,,,33.9721,-84.4406,qr,EN,,Indoors,0,Warmer
+11/18/2024 16:00,11/18/2024 16:00,IP Address,143.215.113.15,100,20,TRUE,11/18/2024 16:00,R_3nAVHa7k967WlFM,,,,,33.7838,-84.4455,anonymous,EN,,Indoors,1,Cooler
+11/25/2024 5:00,11/25/2024 5:01,IP Address,143.215.113.15,100,17,TRUE,11/25/2024 5:01,R_3VI8w6PVoVH1kR1,,,,,33.7838,-84.4455,anonymous,EN,ms001,Indoors,0,No change
+11/25/2024 6:01,11/25/2024 6:02,IP Address,174.209.101.190,100,24,TRUE,11/25/2024 6:02,R_7fH3mShkDFIfn9g,,,,,33.7667,-84.3363,anonymous,EN,ms001,Outdoors,-1,Warmer
+11/25/2024 7:00,11/25/2024 7:00,IP Address,143.215.113.15,100,40,TRUE,11/25/2024 7:00,R_7uyyRW6HZKihYZb,,,,,33.7838,-84.4455,anonymous,EN,ms001,Indoors,1,Cooler
+11/25/2024 9:00,11/25/2024 9:01,IP Address,143.215.125.234,100,30,TRUE,11/25/2024 9:01,R_3v7m87QUfLccm2j,,,,,33.7838,-84.4455,anonymous,EN,ms001,Indoors,-1,Warmer
+11/25/2024 10:00,11/25/2024 10:00,IP Address,143.215.113.15,100,17,TRUE,11/25/2024 10:00,R_1Pdw2Dp85WGl1yx,,,,,33.7838,-84.4455,anonymous,EN,ms001,Indoors,0,No change
+11/25/2024 13:19,11/25/2024 13:20,IP Address,174.209.109.170,100,51,TRUE,11/25/2024 13:20,R_3pVugaPQPiiUOmH,,,,,33.7474,-84.3747,anonymous,EN,ms001,Indoors,1,Cooler
+11/25/2024 15:00,11/25/2024 15:00,IP Address,128.61.88.41,100,23,TRUE,11/25/2024 15:00,R_5czpyuDbq6v3KPe,,,,,33.7749,-84.3975,anonymous,EN,ms001,Indoors,0,No change
+11/25/2024 16:29,11/25/2024 16:29,IP Address,143.215.113.15,100,15,TRUE,11/25/2024 16:29,R_6ro5CLVkpQZ8j27,,,,,33.7838,-84.4455,anonymous,EN,ms001,Indoors,1,Cooler
+11/25/2024 17:00,11/25/2024 17:00,IP Address,128.61.88.41,100,13,TRUE,11/25/2024 17:00,R_7Vrt3emCXryenIb,,,,,33.7749,-84.3975,anonymous,EN,ms001,Indoors,0,No change
+1/14/2025 3:26,1/14/2025 3:26,IP Address,128.61.86.178,100,21,TRUE,1/14/2025 3:26,R_1eEBaoIgyfIfFsZ,,,,,33.7749,-84.3975,anonymous,EN,ms001,Indoors,-1,No change
+1/14/2025 4:00,1/14/2025 4:00,IP Address,143.215.120.238,100,28,TRUE,1/14/2025 4:00,R_7dKrkMYnHEw2QAV,,,,,33.7697,-84.3754,anonymous,EN,ms001,Indoors,0,No change
+1/14/2025 5:00,1/14/2025 5:00,IP Address,128.61.86.178,100,12,TRUE,1/14/2025 5:00,R_7E1cJi9y9RET2vV,,,,,33.7749,-84.3975,anonymous,EN,ms001,Indoors,0,No change
+1/14/2025 6:00,1/14/2025 6:00,IP Address,143.215.120.238,100,16,TRUE,1/14/2025 6:00,R_6nLsdrom5tUtXyN,,,,,33.7697,-84.3754,anonymous,EN,ms001,Indoors,-2,Warmer
+1/14/2025 8:01,1/14/2025 8:01,IP Address,143.215.120.238,100,18,TRUE,1/14/2025 8:01,R_7QcGtPM5Ou2cTTu,,,,,33.7697,-84.3754,anonymous,EN,ms001,Indoors,0,No change
+1/14/2025 10:00,1/14/2025 10:00,IP Address,143.215.120.238,100,14,TRUE,1/14/2025 10:00,R_6woTQivncgdv8v0,,,,,33.7697,-84.3754,anonymous,EN,ms001,Indoors,-2,Warmer
+1/14/2025 11:00,1/14/2025 11:00,IP Address,143.215.120.238,100,16,TRUE,1/14/2025 11:00,R_7DNC8dvQ3SwGV8Y,,,,,33.7697,-84.3754,anonymous,EN,ms001,Indoors,0,No change
+1/14/2025 13:00,1/14/2025 13:00,IP Address,143.215.120.238,100,13,TRUE,1/14/2025 13:00,R_7t9jdwsnpYlaLk5,,,,,33.7697,-84.3754,anonymous,EN,ms001,Indoors,2,Cooler
+1/14/2025 14:00,1/14/2025 14:00,IP Address,143.215.120.238,100,15,TRUE,1/14/2025 14:00,R_33EgJhFhHpYXmf8,,,,,33.7697,-84.3754,anonymous,EN,ms001,Indoors,2,Cooler
+1/14/2025 15:00,1/14/2025 15:00,IP Address,172.56.64.173,100,28,TRUE,1/14/2025 15:00,R_52POMlJiYWbQVGG,,,,,33.7542,-84.2601,anonymous,EN,ms001,Indoors,2,Cooler
+1/14/2025 16:24,1/14/2025 16:24,IP Address,143.215.120.238,100,19,TRUE,1/14/2025 16:24,R_6JEGeRh80x1EDOC,,,,,33.7697,-84.3754,anonymous,EN,ms001,Indoors,1,Cooler
+1/14/2025 17:02,1/14/2025 17:03,IP Address,143.215.120.238,100,24,TRUE,1/14/2025 17:03,R_3F0Jrlk9BwSokZr,,,,,33.7697,-84.3754,anonymous,EN,ms001,Indoors,0,No change
+1/16/2025 4:44,1/16/2025 4:44,IP Address,143.215.117.249,100,10,TRUE,1/16/2025 4:44,R_71gE9PADLEkLZdX,,,,,33.7749,-84.3975,anonymous,EN,ms001,Indoors,0,No change
+1/16/2025 5:08,1/16/2025 5:08,IP Address,143.215.117.249,100,12,TRUE,1/16/2025 5:08,R_37DqpKjXKWTDL7f,,,,,33.7749,-84.3975,anonymous,EN,ms001,Indoors,0,No change
+1/16/2025 6:00,1/16/2025 6:00,IP Address,128.61.177.117,100,16,TRUE,1/16/2025 6:00,R_1M5NwTPopjxgHVo,,,,,33.8621,-84.4198,anonymous,EN,ms001,Indoors,0,No change
+1/16/2025 7:00,1/16/2025 7:00,IP Address,128.61.177.117,100,14,TRUE,1/16/2025 7:00,R_6yr9vG0xMjNEPXB,,,,,33.8621,-84.4198,anonymous,EN,ms001,Indoors,1,No change
+1/16/2025 8:58,1/16/2025 9:00,IP Address,143.215.117.249,100,92,TRUE,1/16/2025 9:00,R_7BaCmIzBmnyJ9aK,,,,,33.7749,-84.3975,anonymous,EN,ms001,Indoors,-2,Warmer
+1/16/2025 11:00,1/16/2025 11:01,IP Address,143.215.117.249,100,13,TRUE,1/16/2025 11:01,R_7L1HR3AwCHGzPcy,,,,,33.7749,-84.3975,anonymous,EN,ms001,Indoors,0,No change
+1/16/2025 12:01,1/16/2025 12:02,IP Address,143.215.117.249,100,71,TRUE,1/16/2025 12:02,R_3EAh1UdLolb8XPp,,,,,33.7749,-84.3975,anonymous,EN,ms001,Outdoors,-1,Warmer
+1/16/2025 16:07,1/16/2025 16:07,IP Address,128.61.86.178,100,18,TRUE,1/16/2025 16:07,R_1p7NiPE21BHc8TL,,,,,33.7838,-84.4455,anonymous,EN,ms001,Indoors,1,Cooler
+1/17/2025 6:02,1/17/2025 6:02,IP Address,143.215.117.249,100,16,TRUE,1/17/2025 6:02,R_5FVEm54b87yOsMk,,,,,33.7749,-84.3975,anonymous,EN,ms001,Indoors,0,No change
+1/17/2025 8:00,1/17/2025 8:00,IP Address,128.61.177.117,100,15,TRUE,1/17/2025 8:00,R_7QE1nb1LQz1p5JL,,,,,33.8621,-84.4198,anonymous,EN,ms001,Indoors,0,No change
+1/17/2025 10:00,1/17/2025 10:00,IP Address,128.61.177.117,100,12,TRUE,1/17/2025 10:00,R_6w7d9V7f5bhpUUQ,,,,,33.8621,-84.4198,anonymous,EN,ms001,Indoors,0,No change
+1/17/2025 15:13,1/17/2025 15:14,IP Address,143.215.117.249,100,16,TRUE,1/17/2025 15:14,R_3SGvdH1eOXttpO9,,,,,33.7749,-84.3975,anonymous,EN,ms001,Outdoors,-1,Warmer
+1/17/2025 16:00,1/17/2025 16:00,IP Address,143.215.117.249,100,17,TRUE,1/17/2025 16:00,R_3QMJKz4ZqOvcfTj,,,,,33.7749,-84.3975,anonymous,EN,ms001,Indoors,1,Cooler
+1/17/2025 17:01,1/17/2025 17:01,IP Address,143.215.117.249,100,21,TRUE,1/17/2025 17:01,R_5aVkVQ9cVVuDQJg,,,,,33.7749,-84.3975,anonymous,EN,ms001,Indoors,1,Cooler
+1/17/2025 17:58,1/17/2025 17:59,IP Address,143.215.117.249,100,13,TRUE,1/17/2025 17:59,R_1eDfP39NO0pQH1w,,,,,33.7749,-84.3975,anonymous,EN,ms001,Indoors,2,Cooler
+1/23/2025 5:01,1/23/2025 5:01,IP Address,143.215.119.253,100,21,TRUE,1/23/2025 5:01,R_71pInUDSVXHPbDp,,,,,33.7749,-84.3975,anonymous,EN,ms001,Indoors,-1,No change
+1/23/2025 6:00,1/23/2025 6:00,IP Address,143.215.119.253,100,29,TRUE,1/23/2025 6:00,R_64kMDUHG1lqCVSz,,,,,33.7749,-84.3975,anonymous,EN,ms001,Indoors,1,No change
+1/23/2025 7:00,1/23/2025 7:00,IP Address,143.215.119.253,100,28,TRUE,1/23/2025 7:00,R_62LwkiaSpaFmHCF,,,,,33.7749,-84.3975,anonymous,EN,ms001,Indoors,2,Cooler
+1/23/2025 8:00,1/23/2025 8:00,IP Address,143.215.119.253,100,28,TRUE,1/23/2025 8:00,R_6a9344YUXCZvVjM,,,,,33.7749,-84.3975,anonymous,EN,ms001,Indoors,0,No change
+1/23/2025 9:00,1/23/2025 9:00,IP Address,143.215.119.253,100,12,TRUE,1/23/2025 9:00,R_60ISYnGL1AEbMv5,,,,,33.7749,-84.3975,anonymous,EN,ms001,Indoors,-1,No change
+1/23/2025 10:00,1/23/2025 10:00,IP Address,143.215.119.253,100,24,TRUE,1/23/2025 10:00,R_5TfOFJ8rgLkQn3X,,,,,33.7749,-84.3975,anonymous,EN,ms001,Indoors,-2,Warmer
+1/23/2025 11:00,1/23/2025 11:00,IP Address,143.215.119.253,100,28,TRUE,1/23/2025 11:00,R_1PNNDeoS4iAbSJf,,,,,33.7749,-84.3975,anonymous,EN,ms001,Indoors,-2,Warmer
+1/23/2025 12:27,1/23/2025 12:27,IP Address,143.215.119.253,100,26,TRUE,1/23/2025 12:27,R_7I0o67gSTSzzNng,,,,,33.7749,-84.3975,anonymous,EN,ms001,Outdoors,-3,Warmer
+1/23/2025 14:00,1/23/2025 14:00,IP Address,143.215.119.253,100,13,TRUE,1/23/2025 14:00,R_1xuI9r2ef5T4KGZ,,,,,33.7749,-84.3975,anonymous,EN,ms001,Indoors,2,Cooler
+1/23/2025 15:24,1/23/2025 15:24,IP Address,172.56.65.10,100,26,TRUE,1/23/2025 15:24,R_6jGzDs8V6Qqd4UV,,,,,33.8231,-84.3258,anonymous,EN,ms001,Indoors,1,Cooler
+1/23/2025 16:00,1/23/2025 16:00,IP Address,143.215.119.253,100,20,TRUE,1/23/2025 16:00,R_6ze1kjSOAz7ldJf,,,,,33.7749,-84.3975,anonymous,EN,ms001,Indoors,-1,Warmer
