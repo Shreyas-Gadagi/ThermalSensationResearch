@@ -19,6 +19,8 @@ def calculateTempAndFlux(filepath):
 
     print(f"Skin temperature and heat flux calculations saved to {output_file}")
 
+    calculateTempAndFlux(file_path)
+
 # Give a certain time-stamp, and it will return average heat flux and temperature
 # from the newly created temperature_heat_flux_results.csv.
 def extract_calrea_data(filepath, timestamp, interval):
@@ -53,8 +55,6 @@ def extract_calrea_data(filepath, timestamp, interval):
     #calculate value from filtered_df
     avg_skin_temp = filtered_df["skin_temperature_C"].mean()
     avg_heat_flux = filtered_df["heat_flux_W_m2"].mean()
-
-    #apply gradient as well
     
     return {"average_skin_temperature": avg_skin_temp, "average_heat_flux": avg_heat_flux}
 
@@ -67,7 +67,7 @@ def extractIButtonData(filepath, timestamp, interval):
     df = pd.read_excel(filepath, skiprows=24)
 
     timestamp = datetime.strptime(timestamp, "%m/%d/%Y %H:%M")
-    print(type(timestamp), timestamp)  # Debugging output to confirm conversion
+    # print(type(timestamp), timestamp)  # Debugging output to confirm conversion
 
     start_time = timestamp - timedelta(minutes=interval)
 
@@ -85,10 +85,9 @@ def extractIButtonData(filepath, timestamp, interval):
 
     meanTemp = filtered_df["Value"].mean()
 
+    return {"averageTemperature":meanTemp}
 
 
 
-
-
-extractIButtonData("IButton/01-17/A.xlsx", "1/17/2025 10:00", 5)
+print(extractIButtonData("IButton/01-17/A.xlsx", "1/17/2025 10:00", 5))
     
